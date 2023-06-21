@@ -6,7 +6,7 @@ Contador regressivo desenvolvido em React
 
 ## 🎨 Layout
 
-![image]()
+![image](https://github.com/marianamoiolicapelari/countdown/blob/main/src/Layout.jpg)
 
 ## 🛠 Tecnologias
 
@@ -22,17 +22,15 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ** Você pode clonar o repositório inteiro.
 
 Acessar no terminal a pasta onde se encontra o projeto Frontend.</br>
-Rodar o comando npm install.</br>
-Rodar o comando npm run serve.
+Rodar o comando yarn.</br>
+Rodar o comando yarn start.
 
 *** ou ***
 
 Clique no link abaixo para visualizar em desktop: 
 
-https://devmov-mmc.netlify.app/
+https://ihackmyfuture.com/
 
 ## 📝 Licença
-
-Este projeto está sob a licença MIT.
 
 Feito por Mariana Moioli Capelari - [Entre em contato!](https://www.linkedin.com/in/mariana-moioli-capelari/)
